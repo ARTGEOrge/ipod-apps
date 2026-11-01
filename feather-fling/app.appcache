@@ -1,0 +1,20 @@
+CACHE MANIFEST
+# Bump the version whenever a game file changes, or installed copies keep the old game.
+# v2
+./
+../_ipod/ios6.js
+js/planck-lite.js
+js/art-world.js
+js/art-blocks.js
+js/textures.js
+js/cinema.js
+js/art-chars.js
+js/levels.js
+js/engine.js
+js/game.js
+icon-57.png
+icon-114.png
+icon-180.png
+
+NETWORK:
+*
